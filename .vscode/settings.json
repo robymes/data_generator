@@ -1,0 +1,11 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "RMuGQau658lzqoSYCl4Mc",
+            "name": "duckdb_demo",
+            "driver": "duckdb",
+            "socket": "/home/messorar/dev/duckdb_demo/data/duckdb_demo.duckdb",
+            "connectionType": "socket"
+        }
+    ]
+}
